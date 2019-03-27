@@ -172,3 +172,8 @@ License
 
 This project is licensed under the terms of the ISC license. See
 the LICENSE file for license rights and limitations.
+
+About
+-----
+
+https://github.com/rsa9000/ntfsheurecovery
